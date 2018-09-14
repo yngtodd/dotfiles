@@ -1,0 +1,17 @@
+[09/07/18, 23:29:57:971] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/07/18, 23:29:57:971] info: ║      Slack 3.2.1, linux 4.15.0-33-generic on x64 at 09/07/18, 23:29:57:968      ║
+[09/07/18, 23:29:57:972] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/07/18, 23:29:58:052] info: Initializing local storage instance at path: /home/todd/.config/Slack/local-settings.json
+[09/07/18, 23:29:58:415] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/07/18, 23:29:58:417] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/07/18, 23:29:58:922] info: Store: SET_NETWORK_STATUS online
+[09/07/18, 23:30:03:034] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T6774RHMG"
+}
+[09/07/18, 23:30:03:041] info: Store: MAIN_WINDOW_SHOWN
+[09/07/18, 23:30:03:049] info: Store: SET_FULL_SCREEN
+[09/07/18, 23:30:03:049] info: Store: SET_FULL_SCREEN
+[09/07/18, 23:30:03:051] info: Store: SET_FULL_SCREEN

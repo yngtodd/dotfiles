@@ -1,0 +1,16 @@
+# GIMP action-history
+
+(history-item "file-save" 3)
+(history-item "edit-paste" 1)
+(history-item "view-zoom-revert" 1)
+(history-item "edit-copy" 1)
+(history-item "edit-clear" 0)
+(history-item "layers-delete" 1)
+(history-item "file-quit" 1)
+(history-item "file-open" 0)
+(history-item "edit-fill-fg" 0)
+(history-item "select-fill" 0)
+(history-item "brushes-edit" 0)
+(history-item "file-save-as" 1)
+
+# end of action-history
